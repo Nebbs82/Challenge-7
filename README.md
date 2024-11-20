@@ -1,9 +1,9 @@
 # ReadMe Generator
   
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Automatic readme generator
+Automatic Readme Generator
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,24 @@ Automatic readme generator
 - [Questions](#questions)
 
 ## Installation
-run in node
+copy and paste files into new foldes and run node
 
 ## Usage
-Used to automatically generate a ReadMe.md file
+Used to automatically create a professional style readme file by answering simple prompts
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-n/a
+N/A
 
 ## Tests
-run node and/or console.log
+test with console.log or run in node
 
 ## Questions
 If you have any questions, please reach out to me at [Nathan.R.Ebbesen@hotmail.com](mailto:Nathan.R.Ebbesen@hotmail.com).
 You can find my GitHub profile at [Nebbs82](https://github.com/Nebbs82).
 
-GitHub repo: (https://github.com/Nebbs82/Challenge-7.git)
+GitHub repo: (https://github.com/Nebbs82/Challenge-7.git) 
+
 Functionality video: (https://drive.google.com/file/d/1wr4wUFwTVTXrHIqpGJSLkeW8vHK--sDw/view)
